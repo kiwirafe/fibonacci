@@ -1,11 +1,19 @@
 # Fibonacci
 ### Version 2.2
-A Simple Snake Eating Game That You Will Have A Blue Snake(3 Connected Dots) Which Will Try To Eat The Red Apple(A Single Dot).
+Fibinacci(n)
+100% Work, With No Big Number Backage, Tested That Fib(10000) Need 3 Mins
 
 ### [My Website - Click Here](https://gnn.liangyang.me/)
 
+## Future:
+#### 2.3 Make Caculations Quicker
+#### 2.4 #In Progress: Making A Pakage Which Does Big Number Addition; Subtraction; Mutiplcation And Division, And Using It In This
+#### 4.0 Put It On My Website
+
 ## Versions
-Version 3.3 - 16/10/2018: Fib(n), n Can Be Asked Instead Of Changing It In The Code
+Version 2.2 - 07/12/2018: Released README.md
+
+Version 2.1 - 16/10/2018: Fib(n), n Can Be Asked Instead Of Changing It In The Code
 
 Version 2.0 - 20/09/2018: Released On github.com/kiwirafe/Fibonacci/
 
