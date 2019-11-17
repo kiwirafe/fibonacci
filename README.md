@@ -6,11 +6,13 @@ Fibinacci(n)
 ### [My Website - Click Here](https://gnn.liangyang.me/)
 
 ## Future:
-#### 2.3 Make Caculations Quicker
-#### 2.4 #In Progress: Making A Pakage Which Does Big Number Addition; Subtraction; Mutiplcation And Division, And Using It In This
-#### 3.0 Put It On My Website
+
 
 ## Versions
+* Version 2.3 Make Caculations Quicker -Archivied
+* Version 3.0 Put It On My Website
+* Version 2.4 #In Progress: Making A Pakage Which Does Big Number Addition; Subtraction; Mutiplcation And Division, And Using It In This
+* Version 2.3 Make Caculations Quicker -Archivied
 * Version 2.2 - 07/12/2018: Released README.md
 * Version 2.1 - 16/10/2018: Fib(n), n Can Be Asked Instead Of Changing It In The Code
 * Version 2.0 - 20/09/2018: Released On github.com/kiwirafe/Fibonacci/
