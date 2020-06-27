@@ -3,7 +3,7 @@
 Fibinacci(n)
 100% Work, With No Big Number Backage, Tested That Fib(10000) Need 3 Mins
 
-### [My Website - Click Here](https://cutt.ly/gnn/)
+### [My Website - Click Here](https://gnn.datavisdev.com)
 
 ## Future:
 
