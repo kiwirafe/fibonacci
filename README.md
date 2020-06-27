@@ -3,13 +3,12 @@
 Fibinacci(n)
 100% Work, With No Big Number Backage, Tested That Fib(10000) Need 3 Mins
 
-### [My Website - Click Here](https://gnn.liangyang.me/)
+### [My Website - Click Here](https://cutt.ly/gnn/)
 
 ## Future:
 
 
 ## Versions
-* Version 2.3 Make Caculations Quicker -Archivied
 * Version 3.0 Put It On My Website
 * Version 2.4 #In Progress: Making A Pakage Which Does Big Number Addition; Subtraction; Mutiplcation And Division, And Using It In This
 * Version 2.3 Make Caculations Quicker -Archivied
