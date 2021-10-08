@@ -1,16 +1,15 @@
 # Fibonacci Calculator
-### Version 2.2
+### Version 3.0 Beta
 Fibinacci(n)
 100% Work, With No Big Number Backage, Tested That Fib(10000) Need 3 Mins
 
 ### [My Website - Click Here](https://gnn.datavisdev.com)
 
 ## Future:
-
+* Version 3.1 #In Progress: Making This A Pypi Package
 
 ## Versions
-* Version 3.1 #In Progress: Making This A Pypi Package
-* Version 3.0 - 16/12/2018: Available on Website
+* Version 3.0 Beta - 16/12/2018: Available on Website
 * Version 2.3 - 16/12/2018: Faster Calculations
 * Version 2.2 - 07/12/2018: Released README.md
 * Version 2.1 - 16/10/2018: Fib(n), n Can Be A Input
