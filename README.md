@@ -1,7 +1,7 @@
 # Fibonacci Calculator
-### Version 3.0 Beta
+### Version 3.0
 Fibinacci(n)
-100% Work, With No Big Number Backage, Tested That Fib(10000) Need 3 Mins
+100% Work, Tested That Fib(10000) Costs 8.455355882644653 sec.
 
 ### [My Website - Click Here](https://gnn.datavisdev.com)
 
